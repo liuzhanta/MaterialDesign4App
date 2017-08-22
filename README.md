@@ -1,11 +1,10 @@
 # MaterialDesign4App
 ![优秀的MaterialDesign资源](https://github.com/liuzhanta/MaterialDesign4App/blob/master/materialDesign4app.png)
 
-## 开源库
+## 优秀开源库
 
 - [android-material-design-Open-source-projects](https://github.com/soyoungboy/android-material-design-Open-source-projects) Material Design 开源库集合
 - [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) Material Design 风格的各种控件
-- [Material](https://github.com/rey5137/material) 同上面那个库差不多，也是各种控件
 - [Material Design Library](https://github.com/DenisMondon/material-design-library) 第三方的 Material Design
 - [MaterialViewPager](https://github.com/florent37/MaterialViewPager) Material Design 风格的 ViewPager
 - [material-calendarview](https://github.com/prolificinteractive/material-calendarview) Material Design 风格的日历
@@ -22,7 +21,7 @@
 - [MaterialIntroView](https://github.com/iammert/MaterialIntroView) 类似 [Fabulous App](http://www.thefabulous.co/) MD 风格的功能引导库
 - [material-components-android](https://github.com/material-components/material-components-android) MD 风格的组件集合
 
-## 开源项目
+## 优秀开源项目
 
 - [十款 Material Design 风格的 Android 开源项目](http://weibo.com/ttarticle/p/show?id=2309404021772117763644)
 - [Universal Android Music Player](https://github.com/googlesamples/android-UniversalMusicPlayer#universal-android-music-player-sample) 谷歌的一款 Material Design 风格的音乐播放器播放器，非常的漂亮
